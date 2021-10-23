@@ -1,4 +1,4 @@
-##Exploring Git!
+## Exploring Git!
 ***
 
 This repositiry demonstrates the use of some basic concepts and uses GitFlow branching model.
